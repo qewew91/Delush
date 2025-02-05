@@ -1,4 +1,4 @@
-﻿namespace Sir_1
+﻿namespace Sir_2
 {
     public partial class Form1 : Form
     {
@@ -7,16 +7,16 @@
             InitializeComponent();
         }
 
-        private void searchButton_Click(object sender, EventArgs e)
+        private void excludeTextBox_Click(object sender, EventArgs e)
         {
             string phrase = phraseTextBox.Text;
             string word = wordTextBox.Text;
 
-            int pozitie = phrase.IndexOf(word, StringComparison.OrdinalIgnoreCase);
-
-            if (pozitie != -1)
+            if (phrase.Contains(word))
             {
-                resultLabel.Text = "Poziția inițială a cuvântului: " + pozitie.ToString();
+                string rezultat = phrase.Replace(word, "");
+
+                resultLabel.Text = "Fraza după excludere: " + rezultat;
             }
             else
             {
