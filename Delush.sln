@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ghici Numarul", "Ghici Numa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecuatii", "Ecuatii\Ecuatii.csproj", "{F100B456-F33B-41A1-A1B3-F1E198CD001C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistem de ecuatii", "Sistem de ecuatii\Sistem de ecuatii.csproj", "{0CC53A37-278F-4B1A-8FD8-264A3B412E76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{F100B456-F33B-41A1-A1B3-F1E198CD001C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F100B456-F33B-41A1-A1B3-F1E198CD001C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F100B456-F33B-41A1-A1B3-F1E198CD001C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC53A37-278F-4B1A-8FD8-264A3B412E76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC53A37-278F-4B1A-8FD8-264A3B412E76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC53A37-278F-4B1A-8FD8-264A3B412E76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC53A37-278F-4B1A-8FD8-264A3B412E76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
