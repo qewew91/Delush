@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mouse", "Mouse\Mouse.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deplasare", "Deplasare\Deplasare.csproj", "{819C8143-1FB5-4B06-92E2-F525F2C63846}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marire", "Marire\Marire.csproj", "{B71FABFD-E83F-4A1B-8F90-0D0ADB5868C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{819C8143-1FB5-4B06-92E2-F525F2C63846}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{819C8143-1FB5-4B06-92E2-F525F2C63846}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{819C8143-1FB5-4B06-92E2-F525F2C63846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71FABFD-E83F-4A1B-8F90-0D0ADB5868C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71FABFD-E83F-4A1B-8F90-0D0ADB5868C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71FABFD-E83F-4A1B-8F90-0D0ADB5868C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71FABFD-E83F-4A1B-8F90-0D0ADB5868C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
