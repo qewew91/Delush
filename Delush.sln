@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marire", "Marire\Marire.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatii", "Operatii\Operatii.csproj", "{1A316886-4A9E-4342-B335-061E47B71213}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementareDecrementare", "IncrementareDecrementare\IncrementareDecrementare.csproj", "{04067243-0302-414D-8343-D3E553F0DB9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1A316886-4A9E-4342-B335-061E47B71213}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A316886-4A9E-4342-B335-061E47B71213}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A316886-4A9E-4342-B335-061E47B71213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04067243-0302-414D-8343-D3E553F0DB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04067243-0302-414D-8343-D3E553F0DB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04067243-0302-414D-8343-D3E553F0DB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04067243-0302-414D-8343-D3E553F0DB9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
