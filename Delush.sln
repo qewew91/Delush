@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caracter", "Caracter\Caract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Editare", "Editare\Editare.csproj", "{B2608FF2-51E8-4582-AD4A-F4416D89EAA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transforma", "Transforma\Transforma.csproj", "{5D47A542-C1D9-4A72-BB32-9320172AAE44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B2608FF2-51E8-4582-AD4A-F4416D89EAA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2608FF2-51E8-4582-AD4A-F4416D89EAA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2608FF2-51E8-4582-AD4A-F4416D89EAA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D47A542-C1D9-4A72-BB32-9320172AAE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D47A542-C1D9-4A72-BB32-9320172AAE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D47A542-C1D9-4A72-BB32-9320172AAE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D47A542-C1D9-4A72-BB32-9320172AAE44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
