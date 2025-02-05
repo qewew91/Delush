@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatii", "Operatii\Operat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementareDecrementare", "IncrementareDecrementare\IncrementareDecrementare.csproj", "{04067243-0302-414D-8343-D3E553F0DB9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeplasareSageti", "DeplasareSageti\DeplasareSageti.csproj", "{90DA9EB8-9067-4616-8586-EE521B1E888E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{04067243-0302-414D-8343-D3E553F0DB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04067243-0302-414D-8343-D3E553F0DB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04067243-0302-414D-8343-D3E553F0DB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90DA9EB8-9067-4616-8586-EE521B1E888E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DA9EB8-9067-4616-8586-EE521B1E888E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DA9EB8-9067-4616-8586-EE521B1E888E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DA9EB8-9067-4616-8586-EE521B1E888E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
