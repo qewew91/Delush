@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coloane", "Coloane\Coloane.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnKeyPress", "OnKeyPress\OnKeyPress.csproj", "{C1E59855-3607-407F-BEDE-1A66E7805D71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sir 1", "Sir 1\Sir 1.csproj", "{9D42F4E6-E1A2-4F3B-AB7A-E3EF1863B02A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{C1E59855-3607-407F-BEDE-1A66E7805D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1E59855-3607-407F-BEDE-1A66E7805D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1E59855-3607-407F-BEDE-1A66E7805D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D42F4E6-E1A2-4F3B-AB7A-E3EF1863B02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D42F4E6-E1A2-4F3B-AB7A-E3EF1863B02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D42F4E6-E1A2-4F3B-AB7A-E3EF1863B02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D42F4E6-E1A2-4F3B-AB7A-E3EF1863B02A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
