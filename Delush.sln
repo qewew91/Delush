@@ -75,6 +75,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triunghi", "Triunghi\Triung
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divizor si Multiplu Comun", "Divizor si Multiplu Comun\Divizor si Multiplu Comun.csproj", "{FB7B9E1D-F764-4E0F-9080-D2F7A0F5CD58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumarPrim", "NumarPrim\NumarPrim.csproj", "{204CBB18-75E2-4FA1-874F-F475A0DCDD81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinari", "Combinari\Combinari.csproj", "{4E537F3E-C56C-4C4A-AF5F-CF3343FE9576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +229,14 @@ Global
 		{FB7B9E1D-F764-4E0F-9080-D2F7A0F5CD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB7B9E1D-F764-4E0F-9080-D2F7A0F5CD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB7B9E1D-F764-4E0F-9080-D2F7A0F5CD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204CBB18-75E2-4FA1-874F-F475A0DCDD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204CBB18-75E2-4FA1-874F-F475A0DCDD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204CBB18-75E2-4FA1-874F-F475A0DCDD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204CBB18-75E2-4FA1-874F-F475A0DCDD81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E537F3E-C56C-4C4A-AF5F-CF3343FE9576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E537F3E-C56C-4C4A-AF5F-CF3343FE9576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E537F3E-C56C-4C4A-AF5F-CF3343FE9576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E537F3E-C56C-4C4A-AF5F-CF3343FE9576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
