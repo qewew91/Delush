@@ -71,7 +71,7 @@
             Controls.Add(hide);
             Controls.Add(show);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Show/Hide";
             ResumeLayout(false);
         }
 
