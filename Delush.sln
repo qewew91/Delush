@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sir 3", "Sir 3\Sir 3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace", "Replace\Replace.csproj", "{D86C6C7D-0222-417D-9EF4-89CCC6DD8034}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom", "Palindrom\Palindrom.csproj", "{EFAC7FB5-D5A8-40FB-9E09-BAEFD17918C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{D86C6C7D-0222-417D-9EF4-89CCC6DD8034}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D86C6C7D-0222-417D-9EF4-89CCC6DD8034}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D86C6C7D-0222-417D-9EF4-89CCC6DD8034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAC7FB5-D5A8-40FB-9E09-BAEFD17918C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAC7FB5-D5A8-40FB-9E09-BAEFD17918C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAC7FB5-D5A8-40FB-9E09-BAEFD17918C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAC7FB5-D5A8-40FB-9E09-BAEFD17918C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
