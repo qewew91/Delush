@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cifre", "Cifre\Cifre.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inversul", "Inversul\Inversul.csproj", "{C086279D-495A-414A-9696-1B7F4D8186AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuvant maxim", "Cuvant maxim\Cuvant maxim.csproj", "{4860F990-41F8-46FB-A110-F37D3434933C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{C086279D-495A-414A-9696-1B7F4D8186AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C086279D-495A-414A-9696-1B7F4D8186AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C086279D-495A-414A-9696-1B7F4D8186AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4860F990-41F8-46FB-A110-F37D3434933C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4860F990-41F8-46FB-A110-F37D3434933C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4860F990-41F8-46FB-A110-F37D3434933C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4860F990-41F8-46FB-A110-F37D3434933C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
