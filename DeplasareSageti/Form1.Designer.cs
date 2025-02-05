@@ -47,7 +47,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(moveLabel);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Deplasare";
             KeyDown += Form1_KeyDown;
             ResumeLayout(false);
             PerformLayout();
